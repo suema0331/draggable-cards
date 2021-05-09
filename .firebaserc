@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanban-58971": {
+      "hosting": {
+        "Draggable-Cards": [
+          "kanban-58971"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "kanban": "kanban-58971"
+  }
+}
